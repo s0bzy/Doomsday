@@ -3,18 +3,8 @@
   "versions": [
     {
       "version": "1.0.1",
-      "platform": "Windows",
-      "download_url": "https://github.com"
-    },
-    {
-      "version": "1.0.1",
       "platform": "Linux",
-      "download_url": "https://github.com"
+      "download_url": "https://github.com/s0bzy/Doomsday/releases/download/Test/build0.7.1.zip"
     },
-    {
-      "version": "1.0.0",
-      "platform": "Windows",
-      "download_url": "https://github.com"
-    }
   ]
 }
